@@ -1,0 +1,6 @@
+{
+  "name": "Document Automation Workflow",
+  "description": "An AI-powered document processor that automatically routes and summarizes PDF and Word documents according to strict deterministic pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
